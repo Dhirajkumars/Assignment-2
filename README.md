@@ -1,2 +1,2 @@
-# Assignment-2
-R Programming  
+# RRP
+Restaurant Rate Prediction
